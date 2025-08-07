@@ -2,8 +2,6 @@
 
 This repository contains my personal study notes, experiment logs, and insights gathered while learning Apache Spark using the [Spark UI Simulator](https://www.databricks.training/spark-ui-simulator/index.html) provided by **Databricks**.
 
-> ⚠️ **Disclaimer**: I am not the creator or maintainer of the Spark UI Simulator. This project is an independent learning effort and is not affiliated with Databricks.
-
 ---
 
 ## 📚 About the Spark UI Simulator
